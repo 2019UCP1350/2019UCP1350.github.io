@@ -1,0 +1,48 @@
+.sidenav{
+	height:auto;
+	position:fixed;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	left:0px;
+	transition:ease 1s;
+	background-color: #111;
+	z-index:101; 
+	width:0px;
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+.sidenavli{
+  font-size:2vw;
+  font-family:PTSerif;
+  display:block;
+}
+.sidenavli a{
+  display: block;
+  color: white;
+  text-align:left;
+  padding:  1.3vw;
+  text-decoration: none;
+   transition:all ease 0.5s;
+}
+.sidenavli a:hover{
+  background-color: white;
+  color:black;
+}
+.closebutton{
+	width:16vw;
+	font-family:PTSerif;
+	display:block;
+	font-size:4.5vw;
+	text-align:right;
+}
+.closebutton a{
+	display:block;
+	color:#818181;
+	margin-right:14px;
+	text-decoration:none;
+	transition:ease 0.5s;
+}
+.closebutton a:hover{
+	color: #f1f1f1;
+}

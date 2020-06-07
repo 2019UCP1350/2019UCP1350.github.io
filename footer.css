@@ -1,0 +1,38 @@
+.foot{
+	color:White;
+	background-color:red;
+	font-family:Sofia;
+	font-size:2vw;
+}
+.fa-facebook{
+font-size:2.3vw;
+background:#3B5998;
+color:white;
+border-radius:50%;
+height:4vw;
+width:4vw;
+padding:1vw 1.2vw;
+}
+.fa-whatsapp{
+font-size:2.3vw;
+background:#49F949;
+color:white;
+height:4vw;
+width:4vw;
+border-radius:50%;
+padding:0.8vw 1vw;
+}
+.fa-instagram{
+font-size:2.3vw;
+background:#99004C;
+color:white;
+height:4vw;
+border-radius:50%;
+width:4vw;
+padding:0.8vw 1vw;
+}
+.fa-phone{
+  color:white;
+  height:4vw;
+	width:2vw;
+ }
